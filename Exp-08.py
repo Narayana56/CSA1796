@@ -1,5 +1,5 @@
 print("DEPTH FIRST SEARCH")
-print("K.Ashwini-192110587")
+print("sathya-192110689")
 def dfs(graph, node, visited, traversal_order):
     visited.add(node)
     traversal_order.append(node)
