@@ -1,5 +1,5 @@
 print("8 QUEEN PROBLEM")
-print("K.Ashwini-192110587")
+print("sathya-192110689")
 print ("Enter the number of queens")
 N = int(input())
 board = [[0]*N for _ in range(N)]
