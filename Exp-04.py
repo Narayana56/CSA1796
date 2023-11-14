@@ -1,5 +1,5 @@
 print("CRIPT ARITHEMATIC PROBLEM")
-print("K.Ashwini-192110587")
+print("sathya-192110689")
 print("SEND + MORE == MONEY")
 from re import sub
 def solve(q):
