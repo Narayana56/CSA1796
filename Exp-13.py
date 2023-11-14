@@ -1,5 +1,5 @@
 print("IMPLEMENT THE MINMAX ALGORITHM FOR GAMING")
-print("K.Ashwini-192110587")
+print("sathya-192110689")
 def minimax(state, depth, is_maximizing):
     if state == 0:
         return -1 if is_maximizing else 1
