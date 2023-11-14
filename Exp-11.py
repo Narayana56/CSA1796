@@ -1,5 +1,5 @@
 print("MAP COLORING TO IMPLEMENT CSP")
-print("K.Ashwini-192110587")
+print("sathya-192110689")
 def is_valid(region, color, assignment, map):
     for neighbor in map[region]:
         if neighbor in assignment and assignment[neighbor] == color:
