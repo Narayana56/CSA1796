@@ -1,5 +1,5 @@
 print("IMPLEMENT THE ALPHA BETA PRUNING FOR GAMING")
-print("K.Ashwini-192110587")
+print("sathya-192110689")
 MAX, MIN = 1000, -1000
 def minimax(depth, nodeIndex, maximizingPlayer,
             values, alpha, beta):
