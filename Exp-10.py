@@ -1,5 +1,5 @@
 print("A* ALGORITHM")
-print("K.Ashwini-192110587")
+print("sathya-192110689")
 import heapq
 def heuristic(node, goal):
     return abs(node[0] - goal[0]) + abs(node[1] - goal[1])
