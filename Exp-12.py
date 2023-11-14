@@ -1,5 +1,5 @@
 print("TIC TAC TOE PROGRAM")
-print("k.Ashwini-192110587")
+print("sathya-192110689")
 def print_board(board):
     for row in board:
         print(" | ".join(row))
