@@ -1,5 +1,5 @@
 print("MISSIONARIES AND CANNIBAL PROBLEM")
-print("sathya-192110689")
+print("bhanu")
 from collections import deque
 initial_state = (3, 3, 1)  
 goal_state = (0, 0, 0)     
